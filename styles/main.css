@@ -4593,8 +4593,14 @@ img {
 }
 
 .card .card-header {
-  max-height: 270px;
+  max-height: 370px;
 }
+
+.card .card-header-info {
+  max-height: 300px;
+  margin-block-end: 1em;
+}
+
 
 .card .card-map {
   max-height: 350px;
